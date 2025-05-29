@@ -1,0 +1,26 @@
+body {
+  font-family: 'Baloo 2', cursive;
+  background-color: #fdfdf6;
+  color: #333;
+}
+
+h1, h2, h5 {
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.card img {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+}
+
+ul.list-group li {
+  background-color: #e9f9e9;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
